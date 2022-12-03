@@ -1,8 +1,8 @@
 
-//LIBRARY.JAVA
+//Bookshop.JAVA
 package College;
 import java.util.Scanner;
- class Library {
+ class Bookshop {
 public static void main(String[] args)
 {
 Scanner input = new Scanner(System.in);
